@@ -27,3 +27,7 @@ is done by invitation in the signal chat CNC Club.
 
 ## Documentation 
 is done in the github wiki
+
+## Helpfull links and tutorials
+https://www.markdownguide.org/cheat-sheet/
+
