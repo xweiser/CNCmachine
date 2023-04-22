@@ -31,3 +31,8 @@ is done in the github wiki
 ## Helpfull links and tutorials
 https://www.markdownguide.org/cheat-sheet/
 
+## Data repsitory for 3D sketches 
+we use an external repository
+https://cloud.franken.de/s/S6FyMWTHTzoJETQ
+
+
